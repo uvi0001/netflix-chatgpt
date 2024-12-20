@@ -1,0 +1,1 @@
+Behind the scenes create react app is using Webpack as bundler instead of Parcel
