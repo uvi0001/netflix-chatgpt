@@ -1,1 +1,7 @@
 Behind the scenes create react app is using Webpack as bundler instead of Parcel
+- Initialize using create react app
+- Configure Tailwind css
+- Confogure Git & setup GitHub repository
+- Add Routes to Body Component
+    npm i -D react-router-dom
+-Z-index, Position:- Absolute, relative, Opacity
